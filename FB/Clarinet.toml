@@ -1,0 +1,11 @@
+[project]
+name = "FB"
+authors = []
+description = ""
+telemetry = true
+requirements = []
+analysis = ["check_checker"]
+costs_version = 2
+[contracts.fundraising]
+path = "contracts/fundraising.clar"
+depends_on = []
